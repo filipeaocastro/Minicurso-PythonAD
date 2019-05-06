@@ -1,5 +1,8 @@
-﻿Módulos/*
-#Módulos/Pré-Processamento/
-#Módulos/Regressão
-#Módulos/Regressão/
+﻿#Módulos
+Módulos/01 - Básicos/*
+Módulos/02 - Pré-Processamento/*.py
+Módulos/03 - Regressão/*
+Módulos/04 - Classificação/*
 Descrição.txt
+asd
+Datasets/*
