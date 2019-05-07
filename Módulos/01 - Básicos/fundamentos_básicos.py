@@ -89,7 +89,7 @@ np.mean(ar)                     # Calcula a média de uma matriz
 np.std(ar)                      # Calcula o desvio padrão de uma matriz                  
 np.pi                           # Valor pi
 
-# Datasets
+# Dataframes
 df = pd.DataFrame(m, columns = ['Dado 1', 'Dado 2'])    # Cria um data frame
 d1 = df.iloc[:, 0].values                               # Pega os valores da primeira coluna
 d2 = df.iloc[:, 1].values                               # Pega os valores da segunda coluna
