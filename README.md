@@ -8,4 +8,7 @@ Repositório do Minicurso de Python voltado para Análise de Dados
 ## Classificação
 
 * [01 - Social Network Ads](https://drive.google.com/open?id=12qia6v1caUmcOlLyl9i880wXlBRV5nXV)
+* [02 - Vertebral Column Dataset](https://drive.google.com/open?id=1YX0DTFAnxBz28GYACC6H12dmlSWnxVX5)
+* [03 - Acute Inflammations Dataset](https://drive.google.com/open?id=1sfCTlbyw_LhEPlU64e01hPgvmyZ4eTe2)
+* [04 - Red Wine Quality Dataset](https://drive.google.com/open?id=1TnqPnDXG8wyi6YdCj7p7a74RczEQxB9C)
 
