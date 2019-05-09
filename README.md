@@ -14,4 +14,4 @@ Repositório do Minicurso de Python voltado para Análise de Dados
 
 ## Sinais
 * [01 - EMG](https://drive.google.com/file/d/19DzkeEw0euw9YlmzJjO_jQlyhXOFkAnz/view?usp=sharing)
-* [02 - ECG)(https://drive.google.com/file/d/1sYH-Wzm_FrOcowB6xUJRkD-Kg_5xZ4-O/view?usp=sharing)
+* [02 - ECG](https://drive.google.com/file/d/1sYH-Wzm_FrOcowB6xUJRkD-Kg_5xZ4-O/view?usp=sharing)
