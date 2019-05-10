@@ -1,9 +1,3 @@
-﻿#Módulos
-#Módulos/01 - Básicos/*
-#Módulos/02 - Pré-Processamento/
-#Módulos/03 - Regressão/*
-#Módulos/04 - Classificação/*
-Módulos/05 - Sinais/*.py
-Módulos/feito em aula/*
+﻿Módulos/feito em aula/*
 Descrição.txt
 Datasets/*
